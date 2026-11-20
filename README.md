@@ -24,7 +24,7 @@ routes back to the original model after the cooldown expires.
 Install with OpenCode V2's plugin manager:
 
 ```bash
-opencode plugin add @kingychiu/opencode-model-fallback@1.5.0
+opencode plugin add @kingychiu/opencode-model-fallback@1.5.1
 ```
 
 This adds the package to `~/.config/opencode/opencode.json` or `opencode.jsonc`.
